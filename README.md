@@ -268,7 +268,6 @@ Answers to frequently asked questions about CUDA can be found at http://develope
 
 *   [CUDA Programming Guide](http://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 *   [Accelerated Computing Blog](https://developer.nvidia.com/blog/?tags=accelerated-computing)
-
 ## Attributions
 
 *   Teapot image is obtained from [Wikimedia](https://en.wikipedia.org/wiki/File:Original_Utah_Teapot.jpg) and is licensed under the Creative Commons [Attribution-Share Alike 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en) Generic license. The image is modified for samples use cases.
