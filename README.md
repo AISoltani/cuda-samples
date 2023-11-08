@@ -67,7 +67,6 @@ The samples makefiles can take advantage of certain options:
     ```
     $ make HOST_COMPILER=g++
     ```
-
 ## Samples list
 
 ### [0. Introduction](./Samples/0_Introduction/README.md)
