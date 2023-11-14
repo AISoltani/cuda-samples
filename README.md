@@ -2,7 +2,6 @@
 
 Samples for CUDA Developers which demonstrates features in CUDA Toolkit. This version supports [CUDA Toolkit 12.2](https://developer.nvidia.com/cuda-downloads).
 
-
 ## Release Notes
 
 This section describes the release notes for the CUDA Samples on GitHub only.
@@ -47,7 +46,6 @@ The Linux samples are built using makefiles. To use the makefiles, change the cu
 $ cd <sample_dir>
 $ make
 ```
-
 The samples makefiles can take advantage of certain options:
 *  **TARGET_ARCH=<arch>** - cross-compile targeting a specific architecture. Allowed architectures are x86_64, ppc64le, armv7l, aarch64.
     By default, TARGET_ARCH is set to HOST_ARCH. On a x86_64 machine, not setting TARGET_ARCH is the equivalent of setting TARGET_ARCH=x86_64.<br/>
