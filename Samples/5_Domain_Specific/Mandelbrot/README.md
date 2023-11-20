@@ -71,4 +71,3 @@ The samples makefiles can take advantage of certain options:
 ```
 
 ## References (for more details)
-
