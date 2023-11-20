@@ -14,7 +14,7 @@ Graphics Interop, Data Parallel Algorithms
 
 ## Supported OSes
 
-Linux, Windows
+Linux and Windows
 
 ## Supported CPU Architecture
 
