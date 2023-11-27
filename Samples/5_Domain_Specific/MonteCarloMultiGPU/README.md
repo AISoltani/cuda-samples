@@ -55,9 +55,9 @@ The samples makefiles can take advantage of certain options:
 `$ make TARGET_ARCH=x86_64` <br/> `$ make TARGET_ARCH=ppc64le` <br/> `$ make TARGET_ARCH=armv7l` <br/>
     See [here](http://docs.nvidia.com/cuda/cuda-samples/index.html#cross-samples) for more details.
 *   **dbg=1** - build with debug symbols
-    ```
+    ``
     $ make dbg=1
-    ```
+    ``
 *   **SMS="A B ..."** - override the SM architectures for which the sample will be built, where `"A B ..."` is a space-delimited list of SM architectures. For example, to generate SASS for SM 50 and SM 60, use `SMS="50 60"`.
     ```
     $ make SMS="50 60"
