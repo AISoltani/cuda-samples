@@ -47,7 +47,7 @@ To build/examine all the samples at once, the complete solution files should be 
 The Linux samples are built using makefiles. To use the makefiles, change the current directory to the sample directory you wish to build, and run make:
 ```
 $ cd <sample_dir>
-$ make
+$ make.
 ```
 The samples makefiles can take advantage of certain options:
 *  **TARGET_ARCH=<arch>** - cross-compile targeting a specific architecture. Allowed architectures are x86_64, ppc64le, armv7l.
