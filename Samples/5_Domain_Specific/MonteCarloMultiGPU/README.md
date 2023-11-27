@@ -6,7 +6,7 @@ This sample evaluates fair call price for a given set of European options using 
 
 ## Key Concepts
 
-Random Number Generator, Computational Finance, CURAND Library
+Random Number Generator, Computational Finance, CURAND Library.
 
 ## Supported SM Architectures
 
