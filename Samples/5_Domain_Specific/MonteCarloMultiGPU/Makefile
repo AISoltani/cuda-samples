@@ -28,12 +28,10 @@
 ################################################################################
 #
 # Makefile project only supported on Mac OS X and Linux Platforms)
-#
+####
 ################################################################################
-
 # Location of the CUDA Toolkit
 CUDA_PATH ?= /usr/local/cuda
-
 ##############################
 # start deprecated interface #
 ##############################
